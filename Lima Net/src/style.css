@@ -1,0 +1,144 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-image: url(./imagem/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 5vw;
+    text-decoration: underline #ffffff;
+    text-align: center;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 3vw;
+    text-align: center;
+}
+
+h3 {
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+
+.informacoes-p {
+    font-size: 1.0vw;
+}
+
+.alterado {
+    color: #ffffff;
+    font-size: 2.5vw;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1px;
+}
+
+.mbs {
+    font-size: 4vw;
+    font-weight: bold;
+}
+
+.mega-bites {
+    background-color: #ffffff;
+    margin-left: 20%;
+    margin-right: 5px;
+    margin-top: 5vw;
+    padding-left: -1vw;
+    padding-right: 0vw;
+    border-radius: 2vw;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.valor-1 {
+    font-size: 4.0vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: #0000fa;
+}
+
+.pacotes {
+    display:inline-flex;
+    margin-left: 10vh;
+    
+}
+
+.mega-bites-lado {
+    background-color: #ffffff;
+    margin-left: 4%;
+    margin-top: 9vh;
+    padding-left: -1vw;
+    padding-right: 0vw;
+    border-radius: 2vw;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.valor-2 {
+    font-size: 4.0vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: #0000fa;
+}
+
+.parte-wi-fi {
+    color: #000000;
+    text-align: center;
+    margin-top: 5vh; 
+    margin-right: 0;
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+li::before  {
+    content: ">> ";
+    color: #fc0000;         
+    font-size: 2vw; 
+}
+
+button {
+    font-weight: bold;
+    text-decoration: underline #000000;
+    background-color: #ffffff;
+    font-size: 1.0vw;
+    margin-top: 2.5vh;
+    border: none;
+    cursor: pointer;   
+}
+
+.contato {
+    padding-left: -2vw;
+    padding-right: 1.5vw;
+    margin-left: 44vw;
+    margin-right: 40vw;
+    margin-top: 8vh;
+    margin-bottom: 6.5vh;
+    background-color: #ffffff;
+    display: inline-flex;
+    text-align: center;
+    border-radius: 2.5vw;
+ 
+}
+
+img {
+    width: 4vw;
+    border-radius: 2.5vw;
+}
+
+  
+
+
+
+
+
+
+
+
+

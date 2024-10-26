@@ -1,0 +1,67 @@
+
+@media (min-width: 320px) and (max-width: 1280px) {
+    body{
+        margin: px;
+    }
+    h1, h2, p {
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 45px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 10px;
+    }
+
+    .alterado {
+        font-size: 15px;
+    }
+    
+    .parte-wi-fi{
+        font-size: 20px;
+    }
+
+    .mega-bites  {
+       margin-left: -18vw; 
+       margin-right: 1vw;   
+    }
+
+    .mega-bites-lado {
+        margin-right: -2vw;
+        margin-top: 7vw;
+        margin-right: 3vw;
+        
+    }
+
+    .pacotes {
+        margin-top: 20vw;
+    }
+
+    .contato{
+        margin-left: 140px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    img {
+        margin-left: -8px;
+        width: 30px;
+    }
+
+    button {
+        font-size: 4vw;
+        margin-top: 0vh;
+        margin-left: 10px;
+        
+    }
+
+}
+
+
+   
